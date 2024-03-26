@@ -1,6 +1,6 @@
-package com.example.customQueries.Controller;
+package com.example.customQueries.controller;
 
-import com.example.customQueries.Service.FlightService;
+import com.example.customQueries.service.FlightService;
 import com.example.customQueries.entity.Flight;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

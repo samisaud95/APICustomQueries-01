@@ -1,6 +1,6 @@
-package com.example.customQueries.Service;
+package com.example.customQueries.service;
 
-import com.example.customQueries.Repository.FlightRepository;
+import com.example.customQueries.repository.FlightRepository;
 import com.example.customQueries.entity.Flight;
 import com.example.customQueries.entity.StatusEnum.StatusEnum;
 import org.springframework.beans.factory.annotation.Autowired;

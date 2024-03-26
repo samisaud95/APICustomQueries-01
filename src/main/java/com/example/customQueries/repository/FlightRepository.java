@@ -1,4 +1,4 @@
-package com.example.customQueries.Repository;
+package com.example.customQueries.repository;
 
 import com.example.customQueries.entity.Flight;
 import org.springframework.data.jpa.repository.JpaRepository;
